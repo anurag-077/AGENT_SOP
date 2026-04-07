@@ -3,6 +3,12 @@
 > **For the coding agent:** Read this document fully before writing a single line of code.
 > Every section maps directly to a file or module you must create. Follow the order. Do not skip steps.
 
+
+
+Complete flow diagram
+
+![image](https://github.com/user-attachments/assets/33256751-f86a-41aa-aa51-ec1d21743568)
+
 ---
 
 ## Overview
@@ -13,9 +19,6 @@ This system replaces the current monolithic `RealEstateAgent` class with a **7-s
 
 ```
 
-Complete flow diagram
-
-![image](https://github.com/user-attachments/assets/33256751-f86a-41aa-aa51-ec1d21743568)
 
 
 
