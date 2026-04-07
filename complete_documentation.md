@@ -12,7 +12,10 @@ This system replaces the current monolithic `RealEstateAgent` class with a **7-s
 ### Directory Structure to Create
 
 ```
-<img src = 'https://github.com/user-attachments/assets/124991a5-aa40-45f9-8e25-cd8dc2ed76b7'/>
+
+Complete flow diagram
+
+![WhatsApp Image 2026-04-07 at 6 02 47 PM](https://github.com/user-attachments/assets/5c493e20-753c-400c-b2b3-1a827bd54e49)
 
 
 backend/
