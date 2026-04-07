@@ -12,6 +12,9 @@ This system replaces the current monolithic `RealEstateAgent` class with a **7-s
 ### Directory Structure to Create
 
 ```
+<img src = 'https://github.com/user-attachments/assets/124991a5-aa40-45f9-8e25-cd8dc2ed76b7'/>
+
+
 backend/
 ├── agent/
 │   ├── __init__.py
